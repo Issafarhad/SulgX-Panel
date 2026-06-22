@@ -12,7 +12,7 @@
   <a href="README-fa.md">فارسی</a>
 </div>
 
-![V2X Panel Screenshot](img/V2X.png)
+![V2X Panel Screenshot](img/SulgX.png)
 
 > **A lightweight, self-hosted subscription management panel for VLESS over WebSocket + TLS.**  
 > Built entirely in a single Python file, powered by FastAPI and SQLite.
